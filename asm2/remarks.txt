@@ -1,0 +1,11 @@
+Đệ quy và quy nạp có mối liên hệ chặt chẽ
+
+Quy nạp toán học được dùng để chứng minh kết quả của biểu thức/hàm.
+Biểu thức/hàm có thể được chuyển hóa thành đệ quy
+
+Chúng ta cũng có thể suy ngược từ đệ quy sang biểu thức quy nạp toán học
+Từ biểu thức toán chúng ta có thể đưa ra suy luận về kết quả
+
+Khi lập trình đệ quy chúng ta thường giải quyết vấn đề lớn thông qua lời giải của vấn đề nhỏ hơn cùng dạng.
+Quy nạp toán học chứng minh tính chất của bài toán thông qua các trường hợp cơ sở sau đó chứng minh tính chất đó luôn đúng với mọi trường hợp
+

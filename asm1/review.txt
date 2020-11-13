@@ -1,0 +1,14 @@
+/*
+ * Review how lotto work
+ * Let's say we have set A = {0,1,2,3,...,99} and variable x which { x ∈ A | x is an integer }
+ * When we pick one number from set A => probability to pick exact x is 1/100
+ * two numbers need to pick first number from set A (size = 100)
+ * => after first number size A remain 99 (reduce by 1)
+ * => probability to pick correct is 1/100 * 1/99
+ *
+ * conclusion:
+ *   fact: f(1) = 1/100
+ *   f(n) = f(n-1) * 1/(100 - n + 1)
+ *
+ * lotto game is very hard to win
+ */
